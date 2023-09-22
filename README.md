@@ -6,6 +6,7 @@ To create Library Management System software that will meet the needs of the app
 and help them to registering and buy the book for the Library, modification in database and
 cancellation for the registered project.
 ### OVERALL DESCRIPTION:
+
 The Library Management System is an integrated system that has four modules as part of
 it. The four modules are
 #### Registration for Membership:
